@@ -72,7 +72,7 @@ Cada vez que publiques una nueva versión:
    ```
 2. Actualiza `update.xml` con la nueva versión:
    ```xml
-   <updatecheck codebase='https://github.com/akram-2008/whitelist/releases/download/EduMonitor/EduMonitor.crx' version='1.0.1' />
+   <updatecheck codebase='https://github.com/appskudeatzailea-hub/EduMonitor/releases/download/EduMonitor/EduMonitor.crx' version='1.0.1' />
    ```
 
 ### 4.3 Probar cambios localmente
@@ -123,18 +123,18 @@ El `.crx` generado tendrá el **mismo ID** que la versión anterior.
 
 ### 6.1 Subir el .crx a GitHub Releases
 
-1. Ve a tu repositorio: https://github.com/akram-2008/whitelist
+1. Ve a tu repositorio: https://github.com/appskudeatzailea-hub/EduMonitor
 2. Crea un nuevo **Release**:
    - Tag: `EduMonitor-v1.0.1`
    - Título: `EduMonitor v1.0.1`
    - Adjunta el archivo `EduMonitor.crx`
 3. La URL del .crx será:
    ```
-   https://github.com/akram-2008/whitelist/releases/download/EduMonitor-v1.0.1/EduMonitor.crx
+   https://github.com/appskudeatzailea-hub/EduMonitor/releases/download/EduMonitor-v1.0.1/EduMonitor.crx
    ```
    o si siempre usas el mismo nombre de archivo:
    ```
-   https://github.com/akram-2008/whitelist/releases/download/EduMonitor/EduMonitor.crx
+   https://github.com/appskudeatzailea-hub/EduMonitor/releases/download/EduMonitor/EduMonitor.crx
    ```
 
 ### 6.2 Actualizar update.xml
@@ -145,7 +145,7 @@ Edita `update.xml` para reflejar la nueva versión y la URL del .crx:
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid='afpmpjemhekncdidgjpcobbibnfpelkn'>
-    <updatecheck codebase='https://github.com/akram-2008/whitelist/releases/download/EduMonitor/EduMonitor.crx' version='1.0.1' />
+    <updatecheck codebase='https://github.com/appskudeatzailea-hub/EduMonitor/releases/download/EduMonitor/EduMonitor.crx' version='1.0.1' />
   </app>
 </gupdate>
 ```
@@ -219,5 +219,5 @@ Recomendaciones:
 
 - [Chrome Extensions Documentation](https://developer.chrome.com/docs/extensions/)
 - [Google Workspace Admin Help](https://support.google.com/chrome/a/answer/6306504)
-- [Repositorio de listas blancas](https://github.com/akram-2008/whitelist)
+- [Repositorio de listas blancas](https://github.com/appskudeatzailea-hub/EduMonitor)
 - [ID de extensiones de Chrome](https://developer.chrome.com/docs/extensions/mv3/manifest/key/)
