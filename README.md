@@ -143,7 +143,7 @@ Las solicitudes se actualizan automáticamente cada 10 segundos.
 ### 6.4 Lista blanca remota (GitHub)
 
 - La extensión obtiene automáticamente una lista blanca desde un archivo alojado en GitHub.
-- URL por defecto: `https://raw.githubusercontent.com/akram-2008/whitelist/refs/heads/main/whitelist.txt`
+- URL por defecto: `https://raw.githubusercontent.com/appskudeatzailea-hub/EduMonitor/refs/heads/main/whitelist.txt`
 - Muestra el estado, número de entradas, URL de origen y última sincronización.
 - Botón **"Sincronizar ahora"** para forzar una actualización.
 - Se sincroniza automáticamente cada 15 minutos.
