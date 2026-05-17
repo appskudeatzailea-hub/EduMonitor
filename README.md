@@ -2,7 +2,7 @@
 
 **Versión:** 1.0.0  
 **ID de extensión:** `afpmpjemhekncdidgjpcobbibnfpelkn`  
-**Repositorio:** https://github.com/akram-2008/whitelist
+**Repositorio:** https://github.com/appskudeatzailea-hub/EduMonitor
 
 ---
 
@@ -24,7 +24,7 @@ Para desplegar EduMonitor en todos los Chromebooks del centro educativo:
    - Haz clic en **Añadir > Añadir desde el ID de la extensión**.
    - ID: `afpmpjemhekncdidgjpcobbibnfpelkn`
    - En **Política de instalación**: selecciona **Forzar instalación**.
-   - En **URL de actualización**: introduce la URL donde alojaste `update.xml` (ej. `https://raw.githubusercontent.com/akram-2008/whitelist/refs/heads/main/update.xml`).
+   - En **URL de actualización**: introduce la URL donde alojaste `update.xml` (ej. `https://raw.githubusercontent.com/appskudeatzailea-hub/EduMonitor/refs/heads/main/update.xml`).
 3. **Permisos:** la extensión necesita permisos sobre `<all_urls>` para analizar el contenido. Se aceptan automáticamente al ser forzada desde la consola de administración.
 
 ---
@@ -65,7 +65,6 @@ Si alguna regla se cumple, la página se bloquea inmediatamente y se muestra la 
 
 ```
 sites.google.com
-scratch.mit.edu
 itch.io
 newgrounds.com
 armorgames.com
