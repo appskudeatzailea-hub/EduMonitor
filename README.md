@@ -1,6 +1,6 @@
 # Manual de Uso — EduMonitor
 
-**Versión:** 1.0.0  
+**Versión:** 1.0.1  
 **ID de extensión:** `afpmpjemhekncdidgjpcobbibnfpelkn`  
 **Repositorio:** https://github.com/appskudeatzailea-hub/EduMonitor
 
