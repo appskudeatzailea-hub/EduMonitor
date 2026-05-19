@@ -3,6 +3,7 @@
 # Para comentar tienes que añadir # al principio
 # Maximo son 200 lineas y importante!!! no poner google.com porque desbloquea todas las paginas de juegos de google site
 # si quieres desblockear todos los subdominios tienes que poner el dominio como burlingtonenglish.com
+incibe.es
 onshape.com
 scratch.mit.edu
 es.educaplay.com
