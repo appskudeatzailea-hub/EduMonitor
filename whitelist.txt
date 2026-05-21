@@ -146,3 +146,4 @@ softkataloa.eus
 https://www.google.com/maps/
 quizlet.com
 capcut.com
+wayground.com
